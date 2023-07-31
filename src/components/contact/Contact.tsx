@@ -5,6 +5,8 @@ export default function Contact() {
         <div>
             <Helmet>
                 <title>Contact</title>
+                <meta property="og:title" content='contact' />
+        <meta property="og:description" content='call us' />
             </Helmet>
             Contact
         </div>

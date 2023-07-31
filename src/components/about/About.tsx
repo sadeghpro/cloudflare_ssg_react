@@ -5,6 +5,9 @@ export default function About() {
         <div>
             <Helmet>
                 <title>about</title>
+
+                <meta property="og:title" content='about' />
+        <meta property="og:description" content='sadeghpro' />
             </Helmet>
             About
         </div>
