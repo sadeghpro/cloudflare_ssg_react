@@ -8,7 +8,7 @@ export default function App() {
                 <title>main page</title>
             </Helmet>
             <div style={{display: 'flex', flexDirection: 'column'}}>
-                <Link to="/">home</Link>
+                <Link to="/">main page</Link>
                 <Link to='/about'>About</Link>
                 <Link to='/contact'>Contact</Link>
             </div>
